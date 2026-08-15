@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "974046879682",
+    "project_id": "stately-ally-265304",
+    "storage_bucket": "stately-ally-265304.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974046879682:android:e98f5f45c17d3c5a37805b",
+        "android_client_info": {
+          "package_name": "com.stepcircle.step_circle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974046879682-vhpdqh93vrtp7rp8vr5nhj93m4na4c84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stepcircle.step_circle",
+            "certificate_hash": "da23dedf97dca01bb4dae56cdb3b5a12b3c4dfc3"
+          }
+        },
+        {
+          "client_id": "974046879682-rgsu4v81dbqm1e8gge87ion3e2g652bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNsKiwKjtPL3MG24TWGQAwmQTP6VI6erk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974046879682-rgsu4v81dbqm1e8gge87ion3e2g652bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974046879682-4n59rlv8to5032opbts22tv7a5bojme8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stepcircle.stepCircle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
